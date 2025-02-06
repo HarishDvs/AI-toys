@@ -17,7 +17,7 @@ Welcome to the **AI Learning Toys** repository! This project contains simple AI-
 
 3. **Camel and Banana Problem**  
    - **Objective:** Maximize the number of bananas transported across the desert with constraints on load capacity and consumption.  
-   - **Concepts Used:** Greedy algorithm, resource optimization.  
+   - **Concepts Used:** Greedy algorithm, resource optimization..  
 
 4. **Missionaries and Cannibals Problem**  
    - **Objective:** Safely transport missionaries and cannibals across a river without ever having more cannibals than missionaries on one side.  
