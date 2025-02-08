@@ -16,4 +16,4 @@ def camel_banana(n, d, c):
     return bananas_left
 
 # Example
-print(camel_banana(3000, 1000, 1000)).
+print(camel_banana(3000, 1000, 1000))
