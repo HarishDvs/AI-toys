@@ -9,7 +9,7 @@ Welcome to the **AI Learning Toys** repository! This project contains simple AI-
 
 1. **Water Jug Problem**  
    - **Objective:** Measure a specific amount of water using two jugs with limited capacities and operations.  
-   - **Concepts Used:** Breadth-First Search (BFS) / Depth-First Search (DFS), State-space search.  
+   - **Concepts Used:** Breadth-First Search (BFS) / Depth-First Search (DFS), State-space search..
 
 2. **Tic-Tac-Toe Game**  
    - **Objective:** A simple 3x3 interactive two-player game where the goal is to get three marks in a row.  
